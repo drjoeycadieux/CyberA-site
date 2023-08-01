@@ -172,6 +172,18 @@ center {
     text-decoration: underline;
 }
 
+.info-banner {
+    padding: 5px;
+    background-color: brown;
+}
+
+.info-banner p {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 20px;
+    color: white;
+}
+
 /* Scroll Bar Css */
 
 /* width */
